@@ -2,9 +2,9 @@
 
 #### About Me
 - 🔭 I’m currently working on:
-  * my **[Machine Learning Pipeline](https://github.com/AlexandreManai/ML_pipeline)**
+  * building my **[Machine Learning Pipeline](https://github.com/AlexandreManai/ML_pipeline)**
   * studying **Reinforcement Learning**
-  * my **Learning in Public** Journey
+  * starting my **Learning in Public** Journey
 - 🌱 I use daily: `Python`, `PyTorch`, `Airflow`, `MLFlow`, `Optuna` and `Docker`
 - 💖 I'm passionate about *Artificial Intelligence* and *Data*.
 - 📫 You can reach me [here](https://www.linkedin.com/in/alexandre-manai-0129467a/).
